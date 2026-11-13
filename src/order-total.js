@@ -5,3 +5,5 @@ export function orderTotal(items) {
   }
   return total
 }
+
+export const TAX = 0.07
